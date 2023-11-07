@@ -1,4 +1,4 @@
-module github.com/disintegration/imaging
+module github.com/12traits/imaging
 
 go 1.20
 
