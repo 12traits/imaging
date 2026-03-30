@@ -1,5 +1,5 @@
 module github.com/12traits/imaging
 
-go 1.22
+go 1.25.0
 
-require golang.org/x/image v0.20.0
+require golang.org/x/image v0.38.0
